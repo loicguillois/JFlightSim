@@ -1,0 +1,29 @@
+        This is at least a partial credits-file of people that have
+        contributed to pilotage. The format is the same as in
+        /usr/src/linux/CREDITS. It is sorted by name and formatted to
+        allow easy grepping and beautification by scripts.  The fields
+        are: name (N), email (E), web-address (W), PGP key ID and
+        fingerprint (P), description (D), and snail-mail address (S).
+        Thanks,
+			Loïc (stolen from Linus)
+
+------
+
+N: Guillois Loïc (FR)
+E: guiloic@devcat.org
+D: graphic engine
+
+N: Simon Clément (FR)
+E: iamclem@gmail.com
+D: 3d modeling, XML parsing/creation
+
+N: Souti Cyril (FR)
+E: cyril.souti@hotmail.com
+D: core engine
+
+N: Theraud Guillaume (FR)
+E: gtheraud@hotmail.com
+D: Swing
+
+------
+if you feel your name should be here too, mail me a patch!

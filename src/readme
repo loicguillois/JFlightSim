@@ -1,0 +1,12 @@
+*** README for pilotage - 06/02/06 ***
+
+[For details on installing pilotage see the INSTALL file]
+
+This is the README for pilotage, a flight simulator of montgolfier. In the future other 
+vehicles would be supported and maybe it will be ported on the Linux platform (now the library we use (jPCT) only work under Windows).
+
+It's a student project.
+
+
+Have fun.
+Guillois Loïc <guiloic@devcat.org>

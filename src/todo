@@ -1,0 +1,23 @@
+Objectif version 0.2
+
+-- package input
+
+remplir completement l'ArrayList des touches appuyé dans KeyboardManager
+
+-- package core
+
+codé les fonctions de base de WorldManager / Montgolfier
+
+-- package gui
+
+interface Swing (package gui)
+
+-- package graphic
+
+eclairage en fonction de l'heure
+debuggé SkyRenderer
+
+-- package configuration
+
+enregistrement / chargement depuis XML
+
